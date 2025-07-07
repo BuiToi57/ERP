@@ -34,7 +34,7 @@ export default function App() {
             <Route path="/employees" element={<h1>Employees Page</h1>} />
             <Route path="/plant" element={<h1>Plant Status Page</h1>} />
             <Route path="/analytics" element={<h1>Analytics Page</h1>} />
-            <Route path="*" element={<h1>Welcome! Select a menu.</h1>} />
+            <Route path="*" element={<h1>Welcome! Bui Toi.</h1>} />
           </Routes>
         </div>
       </div>
